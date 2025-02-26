@@ -1,0 +1,19 @@
+{
+  "name": "bot-wa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhamad Rifki Saputra <rifkimuhamad0987@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "node-cron": "^3.0.3",
+    "puppeteer": "^24.3.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
